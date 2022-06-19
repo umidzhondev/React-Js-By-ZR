@@ -1,0 +1,9 @@
+.user__profile{
+    padding-left: 20px;
+    font-weight: 500;
+    font-family: "Poppins","Rubik","Roboto","sans-serif";
+}
+.user__profile-name{
+    padding: 0;
+    margin: 0;
+}

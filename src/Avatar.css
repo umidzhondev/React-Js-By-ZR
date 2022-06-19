@@ -1,0 +1,6 @@
+.profile__avatar{
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #0074d9;
+    background-color: #0074d9;
+}
